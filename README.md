@@ -1,10 +1,22 @@
-# CLIMATE/DATA
+# ClimateLens — CLIMATE/DATA
 
 Reproducible climate and environmental data pipeline. It downloads two public Our World in Data grapher datasets, cleans them into a common long format, validates the records, and writes a portable SQLite database.
 
+## First statistical analysis
+
+The [findings report](analysis/output/REPORT.md) includes temperature and CO₂ trends, four standalone figures (PNG and SVG), uncertainty intervals, sensitivity checks, and a missing-data audit. The [analysis README](analysis/README.md) documents the runnable offline script and dependencies. The script uses a frozen copy of the existing data; it does not refresh sources or modify the database.
+
+```bash
+python -m pip install -r analysis/requirements.txt
+python -m analysis.run
+python -m pytest -q
+```
+
+The main comparison is 1960–2024, with temperature explicitly rebased to the saved 1961–1990 mean. All ten selected series are complete; the full CO₂ file has 499 missing entity-years in that interval. No missing values are filled. See the report for the conditional interpretation of trend confidence intervals and limitations of the linear models.
+
 ## Data sources
 
-- Global temperature anomaly: [OWID grapher](https://ourworldindata.org/grapher/temperature-anomaly.csv), sourced by OWID from Berkeley Earth. Values are degrees Celsius relative to the 1850–1900 baseline.
+- Temperature anomaly: [OWID grapher](https://ourworldindata.org/grapher/temperature-anomaly.csv), with global and hemispheric values and bounds in the saved CSV. The earlier Berkeley Earth / 1850–1900 description could not be authenticated from the saved metadata and differs from the current catalog. See [the source audit](analysis/SOURCES.md); analysis plots use an explicitly recomputed 1961–1990 reference.
 - CO₂ emissions per person: [OWID grapher](https://ourworldindata.org/grapher/co-emissions-per-capita.csv), sourced from the Global Carbon Project. Values are tonnes per person.
 
 The URLs and expected columns are pinned in `pipeline/config.py`. The raw downloads are never edited; a SHA-256 manifest records exactly what was ingested.
@@ -12,7 +24,7 @@ The URLs and expected columns are pinned in `pipeline/config.py`. The raw downlo
 ## Reproduce
 
 ```bash
-cd CLIMATE-DATA
+cd ClimateLens
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -38,7 +50,7 @@ Example query:
 ```sql
 SELECT year, value AS temperature_anomaly_c
 FROM observations JOIN datasets USING (dataset_id)
-WHERE slug = 'temperature_anomaly' AND entity = 'United States';
+WHERE slug = 'temperature_anomaly' AND entity = 'World';
 ```
 
 ## Validation checks

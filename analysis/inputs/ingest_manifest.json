@@ -1,0 +1,58 @@
+{
+  "retrieved_at": "2026-10-09T08:02:39.540580+00:00",
+  "sources": {
+    "co2_per_capita": {
+      "file": "data/raw/co2_per_capita.csv",
+      "rows": 26509,
+      "sha256": "11a3a3531e4d814f96c5b6ce1ce4888be554cab5a48fe1394ba72f1b590e976e",
+      "url": "https://ourworldindata.org/grapher/co-emissions-per-capita.csv"
+    },
+    "temperature_anomaly": {
+      "file": "data/raw/temperature_anomaly.csv",
+      "rows": 531,
+      "sha256": "c89f9a72278cb0b9ccc9cbf7a324afb8bf16fd3c02ab1f02f802d221845da844",
+      "url": "https://ourworldindata.org/grapher/temperature-anomaly.csv"
+    }
+  },
+  "validation": {
+    "checks": [
+      {
+        "details": "0 duplicates",
+        "name": "no_duplicate_entity_year",
+        "passed": true
+      },
+      {
+        "details": "accepted range: 1750..2100",
+        "name": "years_in_range",
+        "passed": true
+      },
+      {
+        "details": "checked source-specific bounds",
+        "name": "values_in_contract",
+        "passed": true
+      },
+      {
+        "details": "27040 cleaned observations",
+        "name": "observations_present",
+        "passed": true
+      }
+    ],
+    "database": {
+      "checks": [
+        {
+          "details": "0 violations",
+          "name": "foreign_keys",
+          "passed": true
+        },
+        {
+          "details": "0 duplicate keys",
+          "name": "database_duplicates",
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    "passed": true,
+    "rows": 27040
+  }
+}

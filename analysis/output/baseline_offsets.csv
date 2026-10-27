@@ -1,0 +1,4 @@
+entity,baseline_start,baseline_end,baseline_n,subtracted_mean_c
+Northern Hemisphere,1961,1990,30,0.390805699333
+Southern Hemisphere,1961,1990,30,0.353511245433
+World,1961,1990,30,0.372158473

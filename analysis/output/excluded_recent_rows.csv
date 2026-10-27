@@ -1,0 +1,7 @@
+entity,code,year,value,lower,upper,dataset,exclusion_reason
+Northern Hemisphere,OWID_NH,2025,1.7197852,1.6696551,1.7699153,temperature_anomaly,After fixed common end year 2024; 2026 is also an incomplete calendar year at retrieval
+Northern Hemisphere,OWID_NH,2026,1.6964557,1.5800498,1.8128616,temperature_anomaly,After fixed common end year 2024; 2026 is also an incomplete calendar year at retrieval
+Southern Hemisphere,OWID_SH,2025,1.1041952,1.0543483,1.1540421,temperature_anomaly,After fixed common end year 2024; 2026 is also an incomplete calendar year at retrieval
+Southern Hemisphere,OWID_SH,2026,1.1157056,1.0137765,1.2176348,temperature_anomaly,After fixed common end year 2024; 2026 is also an incomplete calendar year at retrieval
+World,OWID_WRL,2025,1.4119903,1.3725953,1.4513854,temperature_anomaly,After fixed common end year 2024; 2026 is also an incomplete calendar year at retrieval
+World,OWID_WRL,2026,1.4060807,1.3229504,1.4892111,temperature_anomaly,After fixed common end year 2024; 2026 is also an incomplete calendar year at retrieval

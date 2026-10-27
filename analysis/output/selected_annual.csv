@@ -1,0 +1,651 @@
+entity,code,year,value,lower,upper,dataset
+Northern Hemisphere,OWID_NH,1960,0.00150590066667,-0.0368328193333,0.0398446006667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1961,-0.00280446933333,-0.0398975993333,0.0342886706667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1962,0.0514575006667,0.0140949706667,0.0888199706667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1963,0.0750132006667,0.0352433506667,0.114783070667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1964,-0.257363999333,-0.297590959333,-0.217137049333,temperature_anomaly
+Northern Hemisphere,OWID_NH,1965,-0.193913509333,-0.234461299333,-0.153365739333,temperature_anomaly
+Northern Hemisphere,OWID_NH,1966,-0.0862773993333,-0.126918259333,-0.0456364993333,temperature_anomaly
+Northern Hemisphere,OWID_NH,1967,-0.0388714993333,-0.0747743593333,-0.00296864933333,temperature_anomaly
+Northern Hemisphere,OWID_NH,1968,-0.137474579333,-0.167543259333,-0.107405879333,temperature_anomaly
+Northern Hemisphere,OWID_NH,1969,-0.0999327993333,-0.128626199333,-0.0712393593333,temperature_anomaly
+Northern Hemisphere,OWID_NH,1970,-0.123518499333,-0.151875359333,-0.0951616293333,temperature_anomaly
+Northern Hemisphere,OWID_NH,1971,-0.228444639333,-0.257587779333,-0.199301499333,temperature_anomaly
+Northern Hemisphere,OWID_NH,1972,-0.248585829333,-0.276146695333,-0.221024969333,temperature_anomaly
+Northern Hemisphere,OWID_NH,1973,0.0213018006667,-0.00662619933333,0.0492298206667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1974,-0.248950669333,-0.279639739333,-0.218261609333,temperature_anomaly
+Northern Hemisphere,OWID_NH,1975,-0.108862139333,-0.135255519333,-0.0824687293333,temperature_anomaly
+Northern Hemisphere,OWID_NH,1976,-0.250231449333,-0.278313769333,-0.222149139333,temperature_anomaly
+Northern Hemisphere,OWID_NH,1977,0.0787732506667,0.0489058406667,0.108640700667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1978,-0.0136660993333,-0.0421612993333,0.0148291006667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1979,0.0276317806667,0.00153270066667,0.0537309006667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1980,0.133878700667,0.107311900667,0.160445530667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1981,0.335677650667,0.305791300667,0.365564000667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1982,-0.0138211593333,-0.0431528993333,0.0155105806667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1983,0.190021060667,0.162347040667,0.217695000667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1984,-0.0312783793333,-0.0580982993333,-0.00445846933333,temperature_anomaly
+Northern Hemisphere,OWID_NH,1985,-0.0577329793333,-0.0880102993333,-0.0274556693333,temperature_anomaly
+Northern Hemisphere,OWID_NH,1986,0.0574389006667,0.0309120606667,0.0839657406667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1987,0.190477750667,0.161103150667,0.219852350667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1988,0.310515300667,0.282950400667,0.338080100667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1989,0.212319100667,0.182548100667,0.242090070667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1990,0.457224100667,0.428228640667,0.486219500667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1991,0.379633300667,0.350537000667,0.408729630667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1992,0.0922222606667,0.0644458106667,0.119998700667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1993,0.187778700667,0.159645500667,0.215911800667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1994,0.317866300667,0.288403100667,0.347329500667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1995,0.562316700667,0.532487800667,0.592145500667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1996,0.284016300667,0.254147850667,0.313884700667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1997,0.525728300667,0.495801770667,0.555654800667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1998,0.707473300667,0.676493400667,0.738453300667,temperature_anomaly
+Northern Hemisphere,OWID_NH,1999,0.467203640667,0.435519400667,0.498887860667,temperature_anomaly
+Northern Hemisphere,OWID_NH,2000,0.479698700667,0.448883140667,0.510514200667,temperature_anomaly
+Northern Hemisphere,OWID_NH,2001,0.621295800667,0.589103400667,0.653488200667,temperature_anomaly
+Northern Hemisphere,OWID_NH,2002,0.662547600667,0.631033700667,0.694061500667,temperature_anomaly
+Northern Hemisphere,OWID_NH,2003,0.713080400667,0.682343000667,0.743817700667,temperature_anomaly
+Northern Hemisphere,OWID_NH,2004,0.628286700667,0.597008700667,0.659564800667,temperature_anomaly
+Northern Hemisphere,OWID_NH,2005,0.827193900667,0.793944500667,0.860443400667,temperature_anomaly
+Northern Hemisphere,OWID_NH,2006,0.786168800667,0.753989100667,0.818348700667,temperature_anomaly
+Northern Hemisphere,OWID_NH,2007,0.823903300667,0.793136100667,0.854670500667,temperature_anomaly
+Northern Hemisphere,OWID_NH,2008,0.662758700667,0.633442400667,0.692074900667,temperature_anomaly
+Northern Hemisphere,OWID_NH,2009,0.697467800667,0.664869700667,0.730066000667,temperature_anomaly
+Northern Hemisphere,OWID_NH,2010,0.910755300667,0.879259400667,0.942251200667,temperature_anomaly
+Northern Hemisphere,OWID_NH,2011,0.719224700667,0.688134300667,0.750315100667,temperature_anomaly
+Northern Hemisphere,OWID_NH,2012,0.775159600667,0.744598100667,0.805721200667,temperature_anomaly
+Northern Hemisphere,OWID_NH,2013,0.769909400667,0.737914500667,0.801904500667,temperature_anomaly
+Northern Hemisphere,OWID_NH,2014,0.901286000667,0.869222700667,0.933349300667,temperature_anomaly
+Northern Hemisphere,OWID_NH,2015,1.12130010067,1.08680760067,1.15579250067,temperature_anomaly
+Northern Hemisphere,OWID_NH,2016,1.24289350067,1.21124540067,1.27454150067,temperature_anomaly
+Northern Hemisphere,OWID_NH,2017,1.10524190067,1.07438420067,1.13609960067,temperature_anomaly
+Northern Hemisphere,OWID_NH,2018,0.950473200667,0.917317900667,0.983628500667,temperature_anomaly
+Northern Hemisphere,OWID_NH,2019,1.15205100067,1.11822560067,1.18587640067,temperature_anomaly
+Northern Hemisphere,OWID_NH,2020,1.27571820067,1.23915760067,1.31227890067,temperature_anomaly
+Northern Hemisphere,OWID_NH,2021,1.08837010067,1.05260290067,1.12413720067,temperature_anomaly
+Northern Hemisphere,OWID_NH,2022,1.10448210067,1.06632260067,1.14264170067,temperature_anomaly
+Northern Hemisphere,OWID_NH,2023,1.42013720067,1.38293320067,1.45734120067,temperature_anomaly
+Northern Hemisphere,OWID_NH,2024,1.52698150067,1.48088460067,1.57307850067,temperature_anomaly
+Southern Hemisphere,OWID_SH,1960,-0.244644265433,-0.335103956433,-0.154184565433,temperature_anomaly
+Southern Hemisphere,OWID_SH,1961,-0.0423946054333,-0.125126915433,0.0403376845667,temperature_anomaly
+Southern Hemisphere,OWID_SH,1962,-0.185526775433,-0.273748570433,-0.0973049754333,temperature_anomaly
+Southern Hemisphere,OWID_SH,1963,-0.154216125433,-0.242010855433,-0.0664213654333,temperature_anomaly
+Southern Hemisphere,OWID_SH,1964,-0.363271532433,-0.435401135433,-0.291141925433,temperature_anomaly
+Southern Hemisphere,OWID_SH,1965,-0.227080095433,-0.309640911433,-0.144519285433,temperature_anomaly
+Southern Hemisphere,OWID_SH,1966,-0.220847195433,-0.297617671433,-0.144076725433,temperature_anomaly
+Southern Hemisphere,OWID_SH,1967,-0.208940845433,-0.280590585433,-0.137291085433,temperature_anomaly
+Southern Hemisphere,OWID_SH,1968,-0.206849455433,-0.286766495433,-0.126932395433,temperature_anomaly
+Southern Hemisphere,OWID_SH,1969,0.0279449245667,-0.0407963754333,0.0966862145667,temperature_anomaly
+Southern Hemisphere,OWID_SH,1970,-0.0609099254333,-0.129421135433,0.00760125456667,temperature_anomaly
+Southern Hemisphere,OWID_SH,1971,-0.196115565433,-0.262292319433,-0.129938815433,temperature_anomaly
+Southern Hemisphere,OWID_SH,1972,0.0518314245667,-0.0133846754333,0.117047514567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1973,0.0672544545667,0.000510724566667,0.133998184567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1974,-0.104812235433,-0.172062115433,-0.0375623454333,temperature_anomaly
+Southern Hemisphere,OWID_SH,1975,-0.119482395433,-0.187667755433,-0.0512970454333,temperature_anomaly
+Southern Hemisphere,OWID_SH,1976,-0.187776735433,-0.261491590433,-0.114061865433,temperature_anomaly
+Southern Hemisphere,OWID_SH,1977,0.115020604567,0.0430253745667,0.187015804567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1978,0.00827842456667,-0.0610495254333,0.0776063745667,temperature_anomaly
+Southern Hemisphere,OWID_SH,1979,0.132178784567,0.0839592245667,0.180398354567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1980,0.232768854567,0.175986554567,0.289551154567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1981,0.141858274567,0.0884999045667,0.195216654567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1982,0.0593581145667,-0.0103218254333,0.129038054567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1983,0.235273854567,0.175327254567,0.295220454567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1984,0.106956804567,0.0487303545667,0.165183354567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1985,0.133312194567,0.0775324045667,0.189091954567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1986,0.110805894567,0.0574845345667,0.164127254567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1987,0.269528354567,0.218997854567,0.320058854567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1988,0.228311204567,0.169279654567,0.287342814567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1989,0.121076134567,0.0621673545667,0.179984954567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1990,0.236465184567,0.175447914567,0.297482514567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1991,0.271588714567,0.212382554567,0.330794754567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1992,0.131432684567,0.0732817945667,0.189583554567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1993,0.118006824567,0.0520834545667,0.183930184567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1994,0.120617004567,0.0616771245667,0.179556814567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1995,0.163551454567,0.110008384567,0.217094554567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1996,0.241265504567,0.188455614567,0.294075394567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1997,0.288017154567,0.235751304567,0.340283004567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1998,0.420051354567,0.366859704567,0.473243054567,temperature_anomaly
+Southern Hemisphere,OWID_SH,1999,0.152474754567,0.100627654567,0.204321854567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2000,0.154921754567,0.101940274567,0.207903254567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2001,0.329207854567,0.273357554567,0.385058254567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2002,0.395372954567,0.345132054567,0.445613854567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2003,0.347081354567,0.290744654567,0.403418094567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2004,0.280166354567,0.231752184567,0.328580454567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2005,0.361023394567,0.314958854567,0.407088014567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2006,0.330082654567,0.281127954567,0.379037404567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2007,0.330727784567,0.281417054567,0.380038454567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2008,0.239223454567,0.187220854567,0.291226054567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2009,0.466150314567,0.420296554567,0.512004054567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2010,0.420142504567,0.373593454567,0.466691524567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2011,0.329612224567,0.283120304567,0.376104084567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2012,0.351466624567,0.298608654567,0.404324554567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2013,0.450979914567,0.395512454567,0.506447404567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2014,0.418034954567,0.366559294567,0.469510554567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2015,0.498203604567,0.447838094567,0.548569114567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2016,0.590347754567,0.542036804567,0.638658614567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2017,0.551274384567,0.500584984567,0.601963754567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2018,0.539526654567,0.492826554567,0.586226854567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2019,0.606238214567,0.556325284567,0.656151154567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2020,0.540372224567,0.489222314567,0.591522054567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2021,0.429858054567,0.377195154567,0.482521054567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2022,0.482807304567,0.424022954567,0.541591754567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2023,0.783074754567,0.725662454567,0.840486854567,temperature_anomaly
+Southern Hemisphere,OWID_SH,2024,0.794631554567,0.743620454567,0.845642554567,temperature_anomaly
+World,OWID_WRL,1960,-0.121569193,-0.177055963,-0.066082393,temperature_anomaly
+World,OWID_WRL,1961,-0.022599553,-0.072971973,0.027772867,temperature_anomaly
+World,OWID_WRL,1962,-0.067034673,-0.120769653,-0.013299653,temperature_anomaly
+World,OWID_WRL,1963,-0.039601453,-0.092263103,0.013060177,temperature_anomaly
+World,OWID_WRL,1964,-0.310317783,-0.357498761,-0.263136773,temperature_anomaly
+World,OWID_WRL,1965,-0.210496803,-0.262424733,-0.158568873,temperature_anomaly
+World,OWID_WRL,1966,-0.153562283,-0.203162003,-0.103962573,temperature_anomaly
+World,OWID_WRL,1967,-0.123906183,-0.168680823,-0.079131553,temperature_anomaly
+World,OWID_WRL,1968,-0.172162003,-0.218516653,-0.125807363,temperature_anomaly
+World,OWID_WRL,1969,-0.035993943,-0.076387773,0.004399887,temperature_anomaly
+World,OWID_WRL,1970,-0.092214203,-0.130543713,-0.053884723,temperature_anomaly
+World,OWID_WRL,1971,-0.212280103,-0.250504343,-0.174055873,temperature_anomaly
+World,OWID_WRL,1972,-0.098377203,-0.135254533,-0.061499873,temperature_anomaly
+World,OWID_WRL,1973,0.044278127,0.006249247,0.082307007,temperature_anomaly
+World,OWID_WRL,1974,-0.176881433,-0.215080673,-0.138682223,temperature_anomaly
+World,OWID_WRL,1975,-0.114172253,-0.151691353,-0.076653173,temperature_anomaly
+World,OWID_WRL,1976,-0.219004083,-0.260211197,-0.177796973,temperature_anomaly
+World,OWID_WRL,1977,0.096896907,0.054773597,0.139020257,temperature_anomaly
+World,OWID_WRL,1978,-0.002693833,-0.042357923,0.036970257,temperature_anomaly
+World,OWID_WRL,1979,0.079905297,0.051052027,0.108758567,temperature_anomaly
+World,OWID_WRL,1980,0.183323797,0.150755427,0.215892127,temperature_anomaly
+World,OWID_WRL,1981,0.238767977,0.207527867,0.270008077,temperature_anomaly
+World,OWID_WRL,1982,0.022768467,-0.017727873,0.063264827,temperature_anomaly
+World,OWID_WRL,1983,0.212647427,0.177122827,0.248172027,temperature_anomaly
+World,OWID_WRL,1984,0.037839227,0.003853527,0.071824907,temperature_anomaly
+World,OWID_WRL,1985,0.037789607,0.004715197,0.070863987,temperature_anomaly
+World,OWID_WRL,1986,0.084122387,0.051771727,0.116473047,temperature_anomaly
+World,OWID_WRL,1987,0.230003027,0.199269287,0.260736827,temperature_anomaly
+World,OWID_WRL,1988,0.269413287,0.234449267,0.304377227,temperature_anomaly
+World,OWID_WRL,1989,0.166697627,0.131329627,0.202065527,temperature_anomaly
+World,OWID_WRL,1990,0.346844627,0.311641267,0.382048027,temperature_anomaly
+World,OWID_WRL,1991,0.325610987,0.290007427,0.361214627,temperature_anomaly
+World,OWID_WRL,1992,0.111827457,0.078264857,0.145390087,temperature_anomaly
+World,OWID_WRL,1993,0.152892767,0.114555977,0.191229527,temperature_anomaly
+World,OWID_WRL,1994,0.219241677,0.182859227,0.255624027,temperature_anomaly
+World,OWID_WRL,1995,0.362934027,0.329754887,0.396113267,temperature_anomaly
+World,OWID_WRL,1996,0.262640887,0.230386827,0.294894927,temperature_anomaly
+World,OWID_WRL,1997,0.406872727,0.374396677,0.439348827,temperature_anomaly
+World,OWID_WRL,1998,0.563762357,0.530716127,0.596808527,temperature_anomaly
+World,OWID_WRL,1999,0.309839187,0.277224057,0.342454327,temperature_anomaly
+World,OWID_WRL,2000,0.317310227,0.284570227,0.350050227,temperature_anomaly
+World,OWID_WRL,2001,0.475251827,0.441458727,0.509044877,temperature_anomaly
+World,OWID_WRL,2002,0.528960287,0.498736377,0.559184187,temperature_anomaly
+World,OWID_WRL,2003,0.530080827,0.496613727,0.563548027,temperature_anomaly
+World,OWID_WRL,2004,0.454226527,0.423857977,0.484595027,temperature_anomaly
+World,OWID_WRL,2005,0.594108627,0.562870227,0.625347077,temperature_anomaly
+World,OWID_WRL,2006,0.558125787,0.526816527,0.589435027,temperature_anomaly
+World,OWID_WRL,2007,0.577315527,0.545373927,0.609257127,temperature_anomaly
+World,OWID_WRL,2008,0.450991087,0.418522727,0.483459467,temperature_anomaly
+World,OWID_WRL,2009,0.581809027,0.550943227,0.612674827,temperature_anomaly
+World,OWID_WRL,2010,0.665448827,0.634816727,0.696081127,temperature_anomaly
+World,OWID_WRL,2011,0.524418427,0.493498127,0.555338727,temperature_anomaly
+World,OWID_WRL,2012,0.563313057,0.531614227,0.595011927,temperature_anomaly
+World,OWID_WRL,2013,0.610444657,0.574961177,0.645928227,temperature_anomaly
+World,OWID_WRL,2014,0.659660527,0.627168827,0.692152127,temperature_anomaly
+World,OWID_WRL,2015,0.809751927,0.776094527,0.843409227,temperature_anomaly
+World,OWID_WRL,2016,0.916620627,0.885345727,0.947895427,temperature_anomaly
+World,OWID_WRL,2017,0.828258227,0.796226927,0.860289427,temperature_anomaly
+World,OWID_WRL,2018,0.744999927,0.713546827,0.776453027,temperature_anomaly
+World,OWID_WRL,2019,0.879144627,0.845841127,0.912448127,temperature_anomaly
+World,OWID_WRL,2020,0.908045227,0.873856727,0.942233727,temperature_anomaly
+World,OWID_WRL,2021,0.759114127,0.724186127,0.794042027,temperature_anomaly
+World,OWID_WRL,2022,0.793644727,0.756599127,0.830690427,temperature_anomaly
+World,OWID_WRL,2023,1.101605927,1.064645727,1.138566227,temperature_anomaly
+World,OWID_WRL,2024,1.160806627,1.121636727,1.199976527,temperature_anomaly
+Brazil,BRA,1960,0.64723074,,,co2_per_capita
+Brazil,BRA,1961,0.65859723,,,co2_per_capita
+Brazil,BRA,1962,0.6974648,,,co2_per_capita
+Brazil,BRA,1963,0.7013189,,,co2_per_capita
+Brazil,BRA,1964,0.6948336,,,co2_per_capita
+Brazil,BRA,1965,0.6713699,,,co2_per_capita
+Brazil,BRA,1966,0.74476844,,,co2_per_capita
+Brazil,BRA,1967,0.74646574,,,co2_per_capita
+Brazil,BRA,1968,0.85088575,,,co2_per_capita
+Brazil,BRA,1969,0.90355355,,,co2_per_capita
+Brazil,BRA,1970,0.97998786,,,co2_per_capita
+Brazil,BRA,1971,1.0468049,,,co2_per_capita
+Brazil,BRA,1972,1.1382492,,,co2_per_capita
+Brazil,BRA,1973,1.2868222,,,co2_per_capita
+Brazil,BRA,1974,1.3605574,,,co2_per_capita
+Brazil,BRA,1975,1.3964669,,,co2_per_capita
+Brazil,BRA,1976,1.4023879,,,co2_per_capita
+Brazil,BRA,1977,1.4379904,,,co2_per_capita
+Brazil,BRA,1978,1.5316536,,,co2_per_capita
+Brazil,BRA,1979,1.5857953,,,co2_per_capita
+Brazil,BRA,1980,1.53561,,,co2_per_capita
+Brazil,BRA,1981,1.3804419,,,co2_per_capita
+Brazil,BRA,1982,1.3507318,,,co2_per_capita
+Brazil,BRA,1983,1.2778428,,,co2_per_capita
+Brazil,BRA,1984,1.2628199,,,co2_per_capita
+Brazil,BRA,1985,1.3287388,,,co2_per_capita
+Brazil,BRA,1986,1.4253908,,,co2_per_capita
+Brazil,BRA,1987,1.4592812,,,co2_per_capita
+Brazil,BRA,1988,1.4436871,,,co2_per_capita
+Brazil,BRA,1989,1.4471786,,,co2_per_capita
+Brazil,BRA,1990,1.466092,,,co2_per_capita
+Brazil,BRA,1991,1.5119112,,,co2_per_capita
+Brazil,BRA,1992,1.5141841,,,co2_per_capita
+Brazil,BRA,1993,1.5581249,,,co2_per_capita
+Brazil,BRA,1994,1.5948403,,,co2_per_capita
+Brazil,BRA,1995,1.66122,,,co2_per_capita
+Brazil,BRA,1996,1.7619148,,,co2_per_capita
+Brazil,BRA,1997,1.8417497,,,co2_per_capita
+Brazil,BRA,1998,1.8760941,,,co2_per_capita
+Brazil,BRA,1999,1.9066226,,,co2_per_capita
+Brazil,BRA,2000,1.9548683,,,co2_per_capita
+Brazil,BRA,2001,1.9634905,,,co2_per_capita
+Brazil,BRA,2002,1.948225,,,co2_per_capita
+Brazil,BRA,2003,1.9080932,,,co2_per_capita
+Brazil,BRA,2004,1.9785615,,,co2_per_capita
+Brazil,BRA,2005,1.9728968,,,co2_per_capita
+Brazil,BRA,2006,1.976238,,,co2_per_capita
+Brazil,BRA,2007,2.0714328,,,co2_per_capita
+Brazil,BRA,2008,2.167588,,,co2_per_capita
+Brazil,BRA,2009,2.0292346,,,co2_per_capita
+Brazil,BRA,2010,2.2729204,,,co2_per_capita
+Brazil,BRA,2011,2.3653224,,,co2_per_capita
+Brazil,BRA,2012,2.5268083,,,co2_per_capita
+Brazil,BRA,2013,2.6782215,,,co2_per_capita
+Brazil,BRA,2014,2.7814436,,,co2_per_capita
+Brazil,BRA,2015,2.6189272,,,co2_per_capita
+Brazil,BRA,2016,2.4197884,,,co2_per_capita
+Brazil,BRA,2017,2.429146,,,co2_per_capita
+Brazil,BRA,2018,2.3123908,,,co2_per_capita
+Brazil,BRA,2019,2.2979572,,,co2_per_capita
+Brazil,BRA,2020,2.1470218,,,co2_per_capita
+Brazil,BRA,2021,2.3696554,,,co2_per_capita
+Brazil,BRA,2022,2.2826612,,,co2_per_capita
+Brazil,BRA,2023,2.2922719,,,co2_per_capita
+Brazil,BRA,2024,2.2783718,,,co2_per_capita
+China,CHN,1960,1.2199273,,,co2_per_capita
+China,CHN,1961,0.87018025,,,co2_per_capita
+China,CHN,1962,0.69108945,,,co2_per_capita
+China,CHN,1963,0.6672778,,,co2_per_capita
+China,CHN,1964,0.65358335,,,co2_per_capita
+China,CHN,1965,0.6915715,,,co2_per_capita
+China,CHN,1966,0.74011993,,,co2_per_capita
+China,CHN,1967,0.6047536,,,co2_per_capita
+China,CHN,1968,0.63445187,,,co2_per_capita
+China,CHN,1969,0.75759107,,,co2_per_capita
+China,CHN,1970,0.9813614,,,co2_per_capita
+China,CHN,1971,1.0771737,,,co2_per_capita
+China,CHN,1972,1.1215245,,,co2_per_capita
+China,CHN,1973,1.1424145,,,co2_per_capita
+China,CHN,1974,1.1419026,,,co2_per_capita
+China,CHN,1975,1.2914877,,,co2_per_capita
+China,CHN,1976,1.3181169,,,co2_per_capita
+China,CHN,1977,1.420932,,,co2_per_capita
+China,CHN,1978,1.5609471,,,co2_per_capita
+China,CHN,1979,1.5737503,,,co2_per_capita
+China,CHN,1980,1.5198873,,,co2_per_capita
+China,CHN,1981,1.479652,,,co2_per_capita
+China,CHN,1982,1.5847058,,,co2_per_capita
+China,CHN,1983,1.6459085,,,co2_per_capita
+China,CHN,1984,1.7667418,,,co2_per_capita
+China,CHN,1985,1.8844863,,,co2_per_capita
+China,CHN,1986,1.9526218,,,co2_per_capita
+China,CHN,1987,2.0585601,,,co2_per_capita
+China,CHN,1988,2.1739132,,,co2_per_capita
+China,CHN,1989,2.1712253,,,co2_per_capita
+China,CHN,1990,2.1528878,,,co2_per_capita
+China,CHN,1991,2.2370765,,,co2_per_capita
+China,CHN,1992,2.3057148,,,co2_per_capita
+China,CHN,1993,2.4340296,,,co2_per_capita
+China,CHN,1994,2.559043,,,co2_per_capita
+China,CHN,1995,2.7465813,,,co2_per_capita
+China,CHN,1996,2.8427844,,,co2_per_capita
+China,CHN,1997,2.8299394,,,co2_per_capita
+China,CHN,1998,2.6824508,,,co2_per_capita
+China,CHN,1999,2.817025,,,co2_per_capita
+China,CHN,2000,2.8700879,,,co2_per_capita
+China,CHN,2001,2.912365,,,co2_per_capita
+China,CHN,2002,3.184619,,,co2_per_capita
+China,CHN,2003,3.7351773,,,co2_per_capita
+China,CHN,2004,4.001966,,,co2_per_capita
+China,CHN,2005,4.4899764,,,co2_per_capita
+China,CHN,2006,4.921031,,,co2_per_capita
+China,CHN,2007,5.2606664,,,co2_per_capita
+China,CHN,2008,5.6172485,,,co2_per_capita
+China,CHN,2009,5.8706574,,,co2_per_capita
+China,CHN,2010,6.370445,,,co2_per_capita
+China,CHN,2011,6.998823,,,co2_per_capita
+China,CHN,2012,7.131918,,,co2_per_capita
+China,CHN,2013,7.2097993,,,co2_per_capita
+China,CHN,2014,7.187588,,,co2_per_capita
+China,CHN,2015,7.0609546,,,co2_per_capita
+China,CHN,2016,6.9428844,,,co2_per_capita
+China,CHN,2017,7.080384,,,co2_per_capita
+China,CHN,2018,7.2915606,,,co2_per_capita
+China,CHN,2019,7.5260706,,,co2_per_capita
+China,CHN,2020,7.64075,,,co2_per_capita
+China,CHN,2021,7.910899,,,co2_per_capita
+China,CHN,2022,8.217776,,,co2_per_capita
+China,CHN,2023,8.556261,,,co2_per_capita
+China,CHN,2024,8.65839,,,co2_per_capita
+India,IND,1960,0.25532722,,,co2_per_capita
+India,IND,1961,0.26961234,,,co2_per_capita
+India,IND,1962,0.2899293,,,co2_per_capita
+India,IND,1963,0.30426666,,,co2_per_capita
+India,IND,1964,0.29105714,,,co2_per_capita
+India,IND,1965,0.31357706,,,co2_per_capita
+India,IND,1966,0.31827164,,,co2_per_capita
+India,IND,1967,0.31187475,,,co2_per_capita
+India,IND,1968,0.33301112,,,co2_per_capita
+India,IND,1969,0.33230522,,,co2_per_capita
+India,IND,1970,0.33291033,,,co2_per_capita
+India,IND,1971,0.34396365,,,co2_per_capita
+India,IND,1972,0.35590428,,,co2_per_capita
+India,IND,1973,0.35836908,,,co2_per_capita
+India,IND,1974,0.3615395,,,co2_per_capita
+India,IND,1975,0.38312787,,,co2_per_capita
+India,IND,1976,0.39106047,,,co2_per_capita
+India,IND,1977,0.40412238,,,co2_per_capita
+India,IND,1978,0.40130946,,,co2_per_capita
+India,IND,1979,0.41165555,,,co2_per_capita
+India,IND,1980,0.424402,,,co2_per_capita
+India,IND,1981,0.44759268,,,co2_per_capita
+India,IND,1982,0.45172426,,,co2_per_capita
+India,IND,1983,0.47764838,,,co2_per_capita
+India,IND,1984,0.4789781,,,co2_per_capita
+India,IND,1985,0.51459557,,,co2_per_capita
+India,IND,1986,0.5391722,,,co2_per_capita
+India,IND,1987,0.562909,,,co2_per_capita
+India,IND,1988,0.59431225,,,co2_per_capita
+India,IND,1989,0.63905036,,,co2_per_capita
+India,IND,1990,0.668214,,,co2_per_capita
+India,IND,1991,0.69619745,,,co2_per_capita
+India,IND,1992,0.72586346,,,co2_per_capita
+India,IND,1993,0.7344633,,,co2_per_capita
+India,IND,1994,0.7586807,,,co2_per_capita
+India,IND,1995,0.7919185,,,co2_per_capita
+India,IND,1996,0.8406862,,,co2_per_capita
+India,IND,1997,0.8587196,,,co2_per_capita
+India,IND,1998,0.8597363,,,co2_per_capita
+India,IND,1999,0.92580426,,,co2_per_capita
+India,IND,2000,0.9330219,,,co2_per_capita
+India,IND,2001,0.92884284,,,co2_per_capita
+India,IND,2002,0.94091654,,,co2_per_capita
+India,IND,2003,0.95665747,,,co2_per_capita
+India,IND,2004,0.9987847,,,co2_per_capita
+India,IND,2005,1.0352627,,,co2_per_capita
+India,IND,2006,1.1026897,,,co2_per_capita
+India,IND,2007,1.1703311,,,co2_per_capita
+India,IND,2008,1.2338176,,,co2_per_capita
+India,IND,2009,1.3164382,,,co2_per_capita
+India,IND,2010,1.3498628,,,co2_per_capita
+India,IND,2011,1.3999841,,,co2_per_capita
+India,IND,2012,1.5070187,,,co2_per_capita
+India,IND,2013,1.5398146,,,co2_per_capita
+India,IND,2014,1.6368889,,,co2_per_capita
+India,IND,2015,1.6805544,,,co2_per_capita
+India,IND,2016,1.7504745,,,co2_per_capita
+India,IND,2017,1.7840685,,,co2_per_capita
+India,IND,2018,1.8879061,,,co2_per_capita
+India,IND,2019,1.8798543,,,co2_per_capita
+India,IND,2020,1.7272933,,,co2_per_capita
+India,IND,2021,1.8920738,,,co2_per_capita
+India,IND,2022,1.9861692,,,co2_per_capita
+India,IND,2023,2.1297693,,,co2_per_capita
+India,IND,2024,2.2009783,,,co2_per_capita
+South Africa,ZAF,1960,5.951708,,,co2_per_capita
+South Africa,ZAF,1961,6.039721,,,co2_per_capita
+South Africa,ZAF,1962,6.066533,,,co2_per_capita
+South Africa,ZAF,1963,6.111272,,,co2_per_capita
+South Africa,ZAF,1964,6.457979,,,co2_per_capita
+South Africa,ZAF,1965,6.7126346,,,co2_per_capita
+South Africa,ZAF,1966,6.5126657,,,co2_per_capita
+South Africa,ZAF,1967,6.584604,,,co2_per_capita
+South Africa,ZAF,1968,6.5826178,,,co2_per_capita
+South Africa,ZAF,1969,6.6224833,,,co2_per_capita
+South Africa,ZAF,1970,6.715526,,,co2_per_capita
+South Africa,ZAF,1971,7.3405147,,,co2_per_capita
+South Africa,ZAF,1972,7.2664576,,,co2_per_capita
+South Africa,ZAF,1973,7.1355233,,,co2_per_capita
+South Africa,ZAF,1974,7.0649953,,,co2_per_capita
+South Africa,ZAF,1975,7.201168,,,co2_per_capita
+South Africa,ZAF,1976,7.3084073,,,co2_per_capita
+South Africa,ZAF,1977,7.365265,,,co2_per_capita
+South Africa,ZAF,1978,7.2437434,,,co2_per_capita
+South Africa,ZAF,1979,7.6367116,,,co2_per_capita
+South Africa,ZAF,1980,7.7306995,,,co2_per_capita
+South Africa,ZAF,1981,8.417489,,,co2_per_capita
+South Africa,ZAF,1982,8.870282,,,co2_per_capita
+South Africa,ZAF,1983,8.916063,,,co2_per_capita
+South Africa,ZAF,1984,9.311615,,,co2_per_capita
+South Africa,ZAF,1985,9.242169,,,co2_per_capita
+South Africa,ZAF,1986,9.134771,,,co2_per_capita
+South Africa,ZAF,1987,8.805399,,,co2_per_capita
+South Africa,ZAF,1988,8.904788,,,co2_per_capita
+South Africa,ZAF,1989,8.597703,,,co2_per_capita
+South Africa,ZAF,1990,7.6800613,,,co2_per_capita
+South Africa,ZAF,1991,7.8207426,,,co2_per_capita
+South Africa,ZAF,1992,7.099532,,,co2_per_capita
+South Africa,ZAF,1993,7.3989305,,,co2_per_capita
+South Africa,ZAF,1994,7.6970315,,,co2_per_capita
+South Africa,ZAF,1995,8.120774,,,co2_per_capita
+South Africa,ZAF,1996,8.060904,,,co2_per_capita
+South Africa,ZAF,1997,8.435343,,,co2_per_capita
+South Africa,ZAF,1998,8.161872,,,co2_per_capita
+South Africa,ZAF,1999,8.021964,,,co2_per_capita
+South Africa,ZAF,2000,8.022367,,,co2_per_capita
+South Africa,ZAF,2001,7.8122125,,,co2_per_capita
+South Africa,ZAF,2002,7.4241047,,,co2_per_capita
+South Africa,ZAF,2003,8.338209,,,co2_per_capita
+South Africa,ZAF,2004,9.171435,,,co2_per_capita
+South Africa,ZAF,2005,8.409871,,,co2_per_capita
+South Africa,ZAF,2006,8.935195,,,co2_per_capita
+South Africa,ZAF,2007,9.203381,,,co2_per_capita
+South Africa,ZAF,2008,9.677716,,,co2_per_capita
+South Africa,ZAF,2009,9.173127,,,co2_per_capita
+South Africa,ZAF,2010,8.928475,,,co2_per_capita
+South Africa,ZAF,2011,8.949351,,,co2_per_capita
+South Africa,ZAF,2012,8.579701,,,co2_per_capita
+South Africa,ZAF,2013,8.343052,,,co2_per_capita
+South Africa,ZAF,2014,8.663356,,,co2_per_capita
+South Africa,ZAF,2015,8.064963,,,co2_per_capita
+South Africa,ZAF,2016,7.9820704,,,co2_per_capita
+South Africa,ZAF,2017,7.6344075,,,co2_per_capita
+South Africa,ZAF,2018,7.7417293,,,co2_per_capita
+South Africa,ZAF,2019,7.899718,,,co2_per_capita
+South Africa,ZAF,2020,7.1875925,,,co2_per_capita
+South Africa,ZAF,2021,7.14546,,,co2_per_capita
+South Africa,ZAF,2022,6.8738866,,,co2_per_capita
+South Africa,ZAF,2023,6.9069405,,,co2_per_capita
+South Africa,ZAF,2024,6.8715796,,,co2_per_capita
+United Kingdom,GBR,1960,11.113797,,,co2_per_capita
+United Kingdom,GBR,1961,11.129407,,,co2_per_capita
+United Kingdom,GBR,1962,11.129884,,,co2_per_capita
+United Kingdom,GBR,1963,11.246019,,,co2_per_capita
+United Kingdom,GBR,1964,11.254874,,,co2_per_capita
+United Kingdom,GBR,1965,11.444563,,,co2_per_capita
+United Kingdom,GBR,1966,11.30431,,,co2_per_capita
+United Kingdom,GBR,1967,10.769963,,,co2_per_capita
+United Kingdom,GBR,1968,10.979154,,,co2_per_capita
+United Kingdom,GBR,1969,11.331282,,,co2_per_capita
+United Kingdom,GBR,1970,11.723682,,,co2_per_capita
+United Kingdom,GBR,1971,11.815909,,,co2_per_capita
+United Kingdom,GBR,1972,11.555677,,,co2_per_capita
+United Kingdom,GBR,1973,11.738719,,,co2_per_capita
+United Kingdom,GBR,1974,10.977184,,,co2_per_capita
+United Kingdom,GBR,1975,10.730219,,,co2_per_capita
+United Kingdom,GBR,1976,10.649842,,,co2_per_capita
+United Kingdom,GBR,1977,10.758524,,,co2_per_capita
+United Kingdom,GBR,1978,10.764969,,,co2_per_capita
+United Kingdom,GBR,1979,11.464309,,,co2_per_capita
+United Kingdom,GBR,1980,10.288156,,,co2_per_capita
+United Kingdom,GBR,1981,9.955621,,,co2_per_capita
+United Kingdom,GBR,1982,9.738896,,,co2_per_capita
+United Kingdom,GBR,1983,9.683191,,,co2_per_capita
+United Kingdom,GBR,1984,9.372629,,,co2_per_capita
+United Kingdom,GBR,1985,9.886416,,,co2_per_capita
+United Kingdom,GBR,1986,10.018491,,,co2_per_capita
+United Kingdom,GBR,1987,10.049029,,,co2_per_capita
+United Kingdom,GBR,1988,10.000239,,,co2_per_capita
+United Kingdom,GBR,1989,10.170335,,,co2_per_capita
+United Kingdom,GBR,1990,10.4927225,,,co2_per_capita
+United Kingdom,GBR,1991,10.588317,,,co2_per_capita
+United Kingdom,GBR,1992,10.288521,,,co2_per_capita
+United Kingdom,GBR,1993,10.017321,,,co2_per_capita
+United Kingdom,GBR,1994,9.896297,,,co2_per_capita
+United Kingdom,GBR,1995,9.735405,,,co2_per_capita
+United Kingdom,GBR,1996,10.0647545,,,co2_per_capita
+United Kingdom,GBR,1997,9.62765,,,co2_per_capita
+United Kingdom,GBR,1998,9.697672,,,co2_per_capita
+United Kingdom,GBR,1999,9.545588,,,co2_per_capita
+United Kingdom,GBR,2000,9.635275,,,co2_per_capita
+United Kingdom,GBR,2001,9.748509,,,co2_per_capita
+United Kingdom,GBR,2002,9.40991,,,co2_per_capita
+United Kingdom,GBR,2003,9.555585,,,co2_per_capita
+United Kingdom,GBR,2004,9.530167,,,co2_per_capita
+United Kingdom,GBR,2005,9.412128,,,co2_per_capita
+United Kingdom,GBR,2006,9.301154,,,co2_per_capita
+United Kingdom,GBR,2007,9.09334,,,co2_per_capita
+United Kingdom,GBR,2008,8.785364,,,co2_per_capita
+United Kingdom,GBR,2009,7.9049363,,,co2_per_capita
+United Kingdom,GBR,2010,8.124634,,,co2_per_capita
+United Kingdom,GBR,2011,7.3959785,,,co2_per_capita
+United Kingdom,GBR,2012,7.62153,,,co2_per_capita
+United Kingdom,GBR,2013,7.4175463,,,co2_per_capita
+United Kingdom,GBR,2014,6.764833,,,co2_per_capita
+United Kingdom,GBR,2015,6.461413,,,co2_per_capita
+United Kingdom,GBR,2016,6.061766,,,co2_per_capita
+United Kingdom,GBR,2017,5.8378453,,,co2_per_capita
+United Kingdom,GBR,2018,5.6886244,,,co2_per_capita
+United Kingdom,GBR,2019,5.4350777,,,co2_per_capita
+United Kingdom,GBR,2020,4.84416,,,co2_per_capita
+United Kingdom,GBR,2021,5.059431,,,co2_per_capita
+United Kingdom,GBR,2022,4.563232,,,co2_per_capita
+United Kingdom,GBR,2023,4.481841,,,co2_per_capita
+United Kingdom,GBR,2024,4.5257993,,,co2_per_capita
+United States,USA,1960,16.07164,,,co2_per_capita
+United States,USA,1961,15.733118,,,co2_per_capita
+United States,USA,1962,16.033794,,,co2_per_capita
+United States,USA,1963,16.47033,,,co2_per_capita
+United States,USA,1964,16.929342,,,co2_per_capita
+United States,USA,1965,17.37528,,,co2_per_capita
+United States,USA,1966,18.013317,,,co2_per_capita
+United States,USA,1967,18.462694,,,co2_per_capita
+United States,USA,1968,18.919777,,,co2_per_capita
+United States,USA,1969,19.654922,,,co2_per_capita
+United States,USA,1970,20.884413,,,co2_per_capita
+United States,USA,1971,20.74589,,,co2_per_capita
+United States,USA,1972,21.485521,,,co2_per_capita
+United States,USA,1973,22.2213,,,co2_per_capita
+United States,USA,1974,21.229671,,,co2_per_capita
+United States,USA,1975,20.145435,,,co2_per_capita
+United States,USA,1976,20.895985,,,co2_per_capita
+United States,USA,1977,21.273462,,,co2_per_capita
+United States,USA,1978,21.727701,,,co2_per_capita
+United States,USA,1979,21.569876,,,co2_per_capita
+United States,USA,1980,20.578814,,,co2_per_capita
+United States,USA,1981,19.567621,,,co2_per_capita
+United States,USA,1982,18.381195,,,co2_per_capita
+United States,USA,1983,18.340216,,,co2_per_capita
+United States,USA,1984,18.714457,,,co2_per_capita
+United States,USA,1985,18.599737,,,co2_per_capita
+United States,USA,1986,18.438473,,,co2_per_capita
+United States,USA,1987,19.06039,,,co2_per_capita
+United States,USA,1988,19.717833,,,co2_per_capita
+United States,USA,1989,19.78752,,,co2_per_capita
+United States,USA,1990,20.253748,,,co2_per_capita
+United States,USA,1991,19.793287,,,co2_per_capita
+United States,USA,1992,19.948572,,,co2_per_capita
+United States,USA,1993,20.102255,,,co2_per_capita
+United States,USA,1994,20.197258,,,co2_per_capita
+United States,USA,1995,20.230127,,,co2_per_capita
+United States,USA,1996,20.678873,,,co2_per_capita
+United States,USA,1997,20.745182,,,co2_per_capita
+United States,USA,1998,20.774931,,,co2_per_capita
+United States,USA,1999,20.805534,,,co2_per_capita
+United States,USA,2000,21.39786,,,co2_per_capita
+United States,USA,2001,20.766743,,,co2_per_capita
+United States,USA,2002,20.718021,,,co2_per_capita
+United States,USA,2003,20.718428,,,co2_per_capita
+United States,USA,2004,20.873743,,,co2_per_capita
+United States,USA,2005,20.71883,,,co2_per_capita
+United States,USA,2006,20.236742,,,co2_per_capita
+United States,USA,2007,20.28047,,,co2_per_capita
+United States,USA,2008,19.409172,,,co2_per_capita
+United States,USA,2009,17.81067,,,co2_per_capita
+United States,USA,2010,18.22542,,,co2_per_capita
+United States,USA,2011,17.634142,,,co2_per_capita
+United States,USA,2012,16.812391,,,co2_per_capita
+United States,USA,2013,17.09857,,,co2_per_capita
+United States,USA,2014,17.118917,,,co2_per_capita
+United States,USA,2015,16.461393,,,co2_per_capita
+United States,USA,2016,15.934658,,,co2_per_capita
+United States,USA,2017,15.639208,,,co2_per_capita
+United States,USA,2018,16.000992,,,co2_per_capita
+United States,USA,2019,15.500492,,,co2_per_capita
+United States,USA,2020,13.8168955,,,co2_per_capita
+United States,USA,2021,14.758024,,,co2_per_capita
+United States,USA,2022,14.802047,,,co2_per_capita
+United States,USA,2023,14.31945,,,co2_per_capita
+United States,USA,2024,14.197287,,,co2_per_capita
+World,OWID_WRL,1960,3.1129305,,,co2_per_capita
+World,OWID_WRL,1961,3.0719054,,,co2_per_capita
+World,OWID_WRL,1962,3.1207407,,,co2_per_capita
+World,OWID_WRL,1963,3.2155952,,,co2_per_capita
+World,OWID_WRL,1964,3.3158252,,,co2_per_capita
+World,OWID_WRL,1965,3.3919592,,,co2_per_capita
+World,OWID_WRL,1966,3.4848654,,,co2_per_capita
+World,OWID_WRL,1967,3.5231547,,,co2_per_capita
+World,OWID_WRL,1968,3.6402233,,,co2_per_capita
+World,OWID_WRL,1969,3.8021357,,,co2_per_capita
+World,OWID_WRL,1970,4.0325885,,,co2_per_capita
+World,OWID_WRL,1971,4.1125965,,,co2_per_capita
+World,OWID_WRL,1972,4.219747,,,co2_per_capita
+World,OWID_WRL,1973,4.3555555,,,co2_per_capita
+World,OWID_WRL,1974,4.253289,,,co2_per_capita
+World,OWID_WRL,1975,4.173319,,,co2_per_capita
+World,OWID_WRL,1976,4.3101907,,,co2_per_capita
+World,OWID_WRL,1977,4.3524494,,,co2_per_capita
+World,OWID_WRL,1978,4.4325047,,,co2_per_capita
+World,OWID_WRL,1979,4.4657006,,,co2_per_capita
+World,OWID_WRL,1980,4.364099,,,co2_per_capita
+World,OWID_WRL,1981,4.168842,,,co2_per_capita
+World,OWID_WRL,1982,4.060496,,,co2_per_capita
+World,OWID_WRL,1983,4.0239425,,,co2_per_capita
+World,OWID_WRL,1984,4.068702,,,co2_per_capita
+World,OWID_WRL,1985,4.1374197,,,co2_per_capita
+World,OWID_WRL,1986,4.122175,,,co2_per_capita
+World,OWID_WRL,1987,4.1796536,,,co2_per_capita
+World,OWID_WRL,1988,4.262697,,,co2_per_capita
+World,OWID_WRL,1989,4.241189,,,co2_per_capita
+World,OWID_WRL,1990,4.266701,,,co2_per_capita
+World,OWID_WRL,1991,4.282473,,,co2_per_capita
+World,OWID_WRL,1992,4.090168,,,co2_per_capita
+World,OWID_WRL,1993,4.06862,,,co2_per_capita
+World,OWID_WRL,1994,4.047994,,,co2_per_capita
+World,OWID_WRL,1995,4.0835447,,,co2_per_capita
+World,OWID_WRL,1996,4.1481075,,,co2_per_capita
+World,OWID_WRL,1997,4.1149697,,,co2_per_capita
+World,OWID_WRL,1998,4.044522,,,co2_per_capita
+World,OWID_WRL,1999,4.0791173,,,co2_per_capita
+World,OWID_WRL,2000,4.133621,,,co2_per_capita
+World,OWID_WRL,2001,4.1076345,,,co2_per_capita
+World,OWID_WRL,2002,4.1442804,,,co2_per_capita
+World,OWID_WRL,2003,4.30703,,,co2_per_capita
+World,OWID_WRL,2004,4.3992558,,,co2_per_capita
+World,OWID_WRL,2005,4.493561,,,co2_per_capita
+World,OWID_WRL,2006,4.585831,,,co2_per_capita
+World,OWID_WRL,2007,4.661509,,,co2_per_capita
+World,OWID_WRL,2008,4.682571,,,co2_per_capita
+World,OWID_WRL,2009,4.545518,,,co2_per_capita
+World,OWID_WRL,2010,4.744936,,,co2_per_capita
+World,OWID_WRL,2011,4.848876,,,co2_per_capita
+World,OWID_WRL,2012,4.854014,,,co2_per_capita
+World,OWID_WRL,2013,4.837743,,,co2_per_capita
+World,OWID_WRL,2014,4.8045974,,,co2_per_capita
+World,OWID_WRL,2015,4.7391157,,,co2_per_capita
+World,OWID_WRL,2016,4.6824865,,,co2_per_capita
+World,OWID_WRL,2017,4.705259,,,co2_per_capita
+World,OWID_WRL,2018,4.752195,,,co2_per_capita
+World,OWID_WRL,2019,4.7478137,,,co2_per_capita
+World,OWID_WRL,2020,4.4577436,,,co2_per_capita
+World,OWID_WRL,2021,4.634748,,,co2_per_capita
+World,OWID_WRL,2022,4.6784525,,,co2_per_capita
+World,OWID_WRL,2023,4.707772,,,co2_per_capita
+World,OWID_WRL,2024,4.729075,,,co2_per_capita
